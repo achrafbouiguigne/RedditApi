@@ -31,4 +31,3 @@ The system performs data extraction and transformation, including engagement sco
 
 ---
 
-## Project Structure
